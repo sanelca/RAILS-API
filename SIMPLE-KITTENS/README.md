@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Installation Stepps
+* Clone repository
+* Run bundle
+* Run rails server
 
-Things you may want to cover:
+# Flickr Photo Search
 
-* Ruby version
+Features
+* Search for flickr photos by user id
+* Search for flickr photos by tags
 
-* System dependencies
+I Learned About
+* Using external API
+* Pulling data from external source
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+As a part of [the Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis)
