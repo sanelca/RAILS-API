@@ -10,6 +10,10 @@
   </head>
 
   <body>
+  <div class="header">
+    <%= link_to "Kittens", kittens_path %>
+    <%= link_to "Create new", new_kitten_path %>
+  </div>
     <%= yield %>
   </body>
 </html>
