@@ -16,3 +16,8 @@ I Learned About
 * Pulling data from external source
 
 As a part of [the Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/apis)
+
+### Contributors
+
+Sanel Hozdic <br>
+Ifeanyi Osinakayah Joseph
