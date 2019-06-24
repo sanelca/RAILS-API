@@ -7,6 +7,8 @@
 
 # Flickr Photo Search
 
+A simple photo widget that allows you to display photos from a user's Flickr feed.
+
 Features
 * Search for flickr photos by user id
 * Search for flickr photos by tags
